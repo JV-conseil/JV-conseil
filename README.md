@@ -1,4 +1,14 @@
-### Hi there 👋
+# JV conseil 👨‍💻
+
+[![Django 4.0.3](https://img.shields.io/badge/Django-4.0.3-green)](https://docs.djangoproject.com/en/4.0/releases/4.0.3/)
+[![PostgreSQL 13.4](https://img.shields.io/badge/PostgreSQL-13.4-green.svg)](https://www.postgresql.org/docs/13/)
+[![Python 3.9.10](https://img.shields.io/badge/Python-3.9.10-green)](https://www.python.org/downloads/release/python-3910/)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![Follow JV conseil – Internet Consulting on Twitter](https://img.shields.io/twitter/follow/JVconseil.svg?style=social&logo=twitter)](https://twitter.com/JVconseil)
+
+Full Stack Developer – Python, Django, PostgreSQL, JavaScript, Node.js, Azure Cloud
+
+Paris area, France 🇫🇷
 
 <!--
 **JV-conseil/JV-conseil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
