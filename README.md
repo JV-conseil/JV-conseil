@@ -1,6 +1,7 @@
 <!-- markdownlint-disable MD033 MD041 -->
-<!--<img src="https://pbs.twimg.com/profile_banners/795832154/1398676708/1500x500" width="100%" alt="Full Stack Developer – Python, Django, PostgreSQL, JavaScript, Node.js, Azure Cloud - Paris, France 🇫🇷">-->
-# JV conseil 👨‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" align="right">
+<img src="https://pbs.twimg.com/profile_banners/795832154/1398676708/1500x500" width="100%" alt="Full Stack Developer – Python, Django, PostgreSQL, JavaScript, Node.js, Azure Cloud - Paris, France 🇫🇷">
+
+# JV conseil 👨‍💻 <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" align="right">-->
 <!-- markdownlint-enable -->
 
 [![Django 4.0.3](https://img.shields.io/badge/Django-4.0.3-green)](https://docs.djangoproject.com/en/4.0/releases/4.0.3/)
