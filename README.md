@@ -15,7 +15,7 @@
 
 Full Stack Developer – Python, Django, PostgreSQL, JavaScript, Node.js, Azure Cloud
 
-Paris, France 🇫🇷
+Greater Paris Metropolitan Region, France 🇫🇷
 
 <!--
 **JV-conseil/JV-conseil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
