@@ -4,6 +4,10 @@
 # JV conseil 👨‍💻 <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" align="right">-->
 <!-- markdownlint-enable -->
 
+<!-- markdownlint-disable MD033 MD041 -->
+<a href="https://stackoverflow.com/users/2477854/jv-conseil"><img src="https://stackoverflow.com/users/flair/2477854.png?theme=dark" width="208" height="58" alt="profile for JV conseil at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for JV conseil at Stack Overflow, Q&amp;A for professional and enthusiast programmers" align="right"></a>
+<!-- markdownlint-enable -->
+
 [![Django 4.0.4](https://img.shields.io/badge/Django-4.0.4-green)](https://docs.djangoproject.com/en/4.0/releases/4.0.4/)
 [![PostgreSQL 13.4](https://img.shields.io/badge/PostgreSQL-13.4-green.svg)](https://www.postgresql.org/docs/13/)
 [![Python 3.9.12](https://img.shields.io/badge/Python-3.9.12-green)](https://www.python.org/downloads/release/python-3910/)
@@ -16,8 +20,6 @@
 Full Stack Developer – Python, Django, PostgreSQL, JavaScript, Node.js, Azure Cloud
 
 Greater Paris Metropolitan Region, France 🇫🇷
-
-<a href="https://stackoverflow.com/users/2477854/jv-conseil"><img src="https://stackoverflow.com/users/flair/2477854.png?theme=dark" width="208" height="58" alt="profile for JV conseil at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for JV conseil at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--
 **JV-conseil/JV-conseil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
