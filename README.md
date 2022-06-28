@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD033 MD041 -->
-<img src="https://pbs.twimg.com/profile_banners/795832154/1398676708/1500x500" width="100%" alt="Full Stack Developer – Python, Django, PostgreSQL, JavaScript, Node.js, Azure Cloud - Paris, France 🇫🇷">
+<img src="https://pbs.twimg.com/profile_banners/795832154/1398676708/1500x500" width="100%" alt="Full Stack Developer - Web App Architect - Python, Django, PostgreSQL, JavaScript, Node.js, Azure Cloud, NLP (Natural Language Processing) - Paris, France 🇫🇷">
 
 # JV conseil 👨‍💻 <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" align="right">-->
 <!-- markdownlint-enable -->
@@ -17,7 +17,7 @@
 <a href="https://stackoverflow.com/users/2477854/jv-conseil"><img src="https://stackoverflow.com/users/flair/2477854.png?theme=dark" width="208" height="58" alt="profile for JV conseil at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for JV conseil at Stack Overflow, Q&amp;A for professional and enthusiast programmers" align="right"></a>
 <!-- markdownlint-enable -->
 
-Full Stack Developer – Python, Django, PostgreSQL, JavaScript, Node.js, Azure Cloud
+Full Stack Developer - Web App Architect - Python, Django, PostgreSQL, JavaScript, Node.js, Azure Cloud, NLP (Natural Language Processing)
 
 Greater Paris Metropolitan Region, France 🇫🇷
 
