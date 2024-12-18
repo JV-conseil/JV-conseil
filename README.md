@@ -30,6 +30,8 @@ DevOps • Full Stack Developer • Web App Architect
 
 _Python 🐍 Django • PostgreSQL 🐘 JavaScript • Node.js • Azure Cloud ☁️ NLP (Natural Language Processing) • ETL Developer (Extract, Transform, Load)_
 
+<img src="https://github-readme-stats.vercel.app/api?username=JV-conseil&show_icons=true&theme=slateorange" alt="GitHub Stats" align="right" />
+
 Greater Paris Metropolitan Region, France 🇫🇷
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=JV-conseil.JV-conseil&right_color=green)
