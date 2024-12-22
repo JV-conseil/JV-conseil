@@ -34,7 +34,7 @@ _Python 🐍 Django • PostgreSQL 🐘 JavaScript • Node.js • Azure Cloud �
 
 Greater Paris Metropolitan Region, France 🇫🇷
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=JV-conseil.JV-conseil&right_color=green)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=JV-conseil.JV-conseil&right_color=green
 
 With over two decades of experience in the tech industry, I am a seasoned Full Stack Developer, Web App Architect, and DevOps Specialist. Based in the Greater Paris Metropolitan Region, I've become well-versed in a wide array of technologies, with a special focus on Python (Django), JavaScript/TypeScript (Node.js), PostgreSQL, and Azure Cloud platforms. I've also developed a strong aptitude for Natural Language Processing (NLP), API development and ETL processes, allowing me to unlock insights from data and drive performance improvements. I have also a strong background in version control systems like Git, GitHub, and GitLab.
 
@@ -44,7 +44,7 @@ Prior to my current role, I worked as a Webmaster, specialized in Apache, MySQL,
 
 My educational background includes a Master of Science in Management HEC School of Management and a Major in Management and New Technologies from Télécom ParisTech, both ranking among France's top selective higher education schools. I also hold a Master of Science in Political Science and a Bachelor of Arts in History from Université Paris Ouest Nanterre la Défense (Paris X Nanterre). My interdisciplinary education in digital engineering, business management, political sciences, and history has equipped me with a diverse perspective that informs my approach to technology and collaboration.
 
-For the past years, I assume the position of Chief Technology Officer (CTO) and lead a talented seven-member team consisting of data scientists, web developers, and software engineers. By leveraging our diverse expertise, we create cutting-edge solutions and innovative digital tools to provide robust support to researchers and researcher managers to secure funding and foster academical collaboration.
+For the past years, I assume the position of Chief Technology Officer (CTO) and lead a talented team consisting of data scientists, web developers, and software engineers. By leveraging our diverse expertise, we create cutting-edge solutions and innovative digital tools to provide robust support to researchers and researcher managers to secure funding and foster academical collaboration.
 
 When I'm not busy crafting digital solutions, you can find me lacing up my hiking boots to explore scenic trails or enjoying the great outdoors through sightseeing adventures. I also love to grab my bike and spend all day long exploring the vibrant streets of European capitals. To unwind, I indulge in my passion for live acoustic music concerts, with a particular fondness for jazz and baroque music.
 
