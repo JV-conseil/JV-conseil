@@ -34,7 +34,7 @@ _Python 🐍 Django • PostgreSQL 🐘 JavaScript • Node.js • Azure Cloud �
 
 Greater Paris Metropolitan Region, France 🇫🇷
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=JV-conseil.JV-conseil&right_color=green
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=JV-conseil.JV-conseil&right_color=green)
 
 With over two decades of experience in the tech industry, I am a seasoned Full Stack Developer, Web App Architect, and DevOps Specialist. Based in the Greater Paris Metropolitan Region, I've become well-versed in a wide array of technologies, with a special focus on Python (Django), JavaScript/TypeScript (Node.js), PostgreSQL, and Azure Cloud platforms. I've also developed a strong aptitude for Natural Language Processing (NLP), API development and ETL processes, allowing me to unlock insights from data and drive performance improvements. I have also a strong background in version control systems like Git, GitHub, and GitLab.
 
