@@ -39,7 +39,9 @@ Greater Paris Metropolitan Region, France 🇫🇷
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=JV-conseil.JV-conseil&right_color=green)
 
-With over two decades of experience in the tech industry, I am an seasoned Full Stack Developer, Web App Architect, and DevOps Specialist based in the Greater Paris Metropolitan Region. My expertise spans Python (Django), JavaScript/TypeScript (Node.js), PostgreSQL, and Azure Cloud platforms, alongside strengths in Natural Language Processing (NLP), API development, and ETL processes. I have a solid background in version control systems like Git, GitHub, and GitLab, and specialize in designing, developing, and deploying scalable web applications and robust cloud infrastructure. Collaborating with cross-functional teams, I deliver innovative solutions tailored to strategic and operational objectives with a focus on excellence, innovation, and client satisfaction.
+With over two decades of experience in the tech industry, I am an seasoned Full Stack Developer, Web App Architect, and DevOps Specialist based in the Greater Paris Metropolitan Region. 
+
+My expertise spans Python (Django), JavaScript/TypeScript (Node.js), PostgreSQL, and Azure Cloud platforms, alongside strengths in Natural Language Processing (NLP), API development, and ETL processes. I have a solid background in version control systems like Git, GitHub, and GitLab, and specialize in designing, developing, and deploying scalable web applications and robust cloud infrastructure. Collaborating with cross-functional teams, I deliver innovative solutions tailored to strategic and operational objectives with a focus on excellence, innovation, and client satisfaction.
 
 Prior to my current role, I worked as a Webmaster, specialized in Apache, MySQL, PHP, and various CMS platforms like Drupal, Joomla!, and WordPress. My skills include front-end development using JavaScript, jQuery, Sass, and CSS, as well as domain and DNS management. I also have extensive experience in digital marketing, including SEO and social media strategies.
 
