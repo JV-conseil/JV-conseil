@@ -20,7 +20,7 @@ _Python 🐍 Django • PostgreSQL 🐘 JavaScript • Node.js • Azure Cloud �
 
 Greater Paris Metropolitan Region, France 🇫🇷
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=JV-conseil.JV-conseil&right_color=green)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=JV-conseil.JV-conseil&right_color=yellow)
 
 📈 **With over two decades of experience** in the tech industry, I am a seasoned Full Stack Developer, Web App Architect, and DevOps Specialist based in the Greater Paris Metropolitan Region.
 
